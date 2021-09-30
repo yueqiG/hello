@@ -1,1 +1,2 @@
-##run code directly from Atom press ctrl+alt+b
+ctrl+alt+b run code directly from ATOM
+
